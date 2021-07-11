@@ -1,2 +1,5 @@
 # PDS
-Distributed System of a simple chat using sockets
+Aulas práticas de Padrões e Desenho de Software
+
+## Atenção
+Alguns destes exercícios podem não estar 100% correto!
